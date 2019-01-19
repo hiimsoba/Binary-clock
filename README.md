@@ -1,4 +1,4 @@
 # Binary-clock
-In the browser. wlp.
+In the browser. welp.
 
 - refactor and add comments
